@@ -2,7 +2,7 @@
 #The file is the part of our Qros AI Project
 
 print("HELLO QROS")
-
+print("This is python programming language")
 
 print("This is Python")
 
